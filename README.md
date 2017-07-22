@@ -17,3 +17,32 @@ Serão 7 encontros programados com a seguinte agenda:
 5. (11/set) B.I. moderno e Analytics
 6. (18/set) Big Data e Governança de Dados: como conviverem em harmonia
 7. (25/set) Apresentação dos trabalhos finais
+
+### Critérios de Aprovação
+Segue trecho retirado do Manual do Professor:
+
+> Pelo regimento do Centro Universitário IESB que para aprovação em cada disciplina o discente precisa cumprir **75% de frequência** e ter a nota mínima exigida para aprovação de **5,0(cinco)**, em uma escala de 0 (zero) a 10 (dez).
+
+Não haverá o uso de provas.
+
+Para avaliação serão utilizados 2 trabalhos (T1 e T2), com as seguintes características.
+
+#### T1: Laboratório de Qualidade de Dados
+* Peso na nota final: **30%**
+* Data final para entrega: 25/setembro às 19:00
+* Detalhes disponíveis [aqui.](docs/trabalho-t1-lab-dataquality.md)
+
+#### T2: Relatório Proposta de Implementação de Governança de Dados
+* Peso na nota final: **70%**, 
+* Nota de T2: **50%** pelo relatório, e **50%** pela apresentação.
+* Data final para entrega: 25/setembro às 19:00
+* Detalhes disponíveis [aqui.](docs/trabalho-t2-proposta-govdados.md)
+
+Portanto: NF = (3 * NT1 + 7 * NT2) / 10, onde:
+
+NF = Nota Final
+
+NT1 = Nota do trablalho T1
+
+NT2 = Nota do trabalho T2
+
