@@ -32,7 +32,7 @@ Para avaliação serão utilizados 2 trabalhos (T1 e T2), com as seguintes carac
 * Data final para entrega: 25/setembro às 19:00
 * Detalhes disponíveis [aqui.](docs/trabalho-t1-dataquality.md)
 
-#### T2: Relatório Proposta de Implementação de Governança de Dados
+#### T2: Proposta de Implementação de Governança de Dados
 * Peso na nota final: **70%**, 
 * Nota de T2: **50%** pelo relatório, e **50%** pela apresentação.
 * Data final para entrega: 25/setembro às 19:00
