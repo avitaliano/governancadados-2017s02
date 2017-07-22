@@ -39,10 +39,15 @@ Para avaliação serão utilizados 2 trabalhos (T1 e T2), com as seguintes carac
 * Detalhes disponíveis [aqui.](docs/trabalho-t2-proposta-govdados.md)
 
 Portanto: NF = (3 * NT1 + 7 * NT2) / 10, onde:
+* NF = Nota Final
+* NT1 = Nota do trablalho T1
+* NT2 = Nota do trabalho T2
 
-NF = Nota Final
-
-NT1 = Nota do trablalho T1
-
-NT2 = Nota do trabalho T2
+### Bibliografia
+A disciplina será baseada em diversos livros, artigos e apresentações.
+* International, DAMA. **DMBOK: Data Management Body of Knowledge**. 2nd Edition. Technics Publications.
+* International, DAMA. **DMBOK: Data Management Body of Knowledge**. 1st Edition. Technics Publications. ISBN:9781935504009.
+* LOSHIN, DAVID. **Master Data Management**. OMG Press, 1a edição. ISBN:9780123742254.
+* DUBOV, BERSON. **Master Data Management and Data Governance**. McGraw-Hill. ISBN:9780071744584.
+* MAYDANCHIK, ARKADY. **Data Quality Assessment**. Technics Publications. ISBN:9780977140022.
 
