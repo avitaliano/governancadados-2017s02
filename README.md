@@ -30,7 +30,7 @@ Para avaliação serão utilizados 2 trabalhos (T1 e T2), com as seguintes carac
 #### T1: Laboratório de Qualidade de Dados
 * Peso na nota final: **30%**
 * Data final para entrega: 25/setembro às 19:00
-* Detalhes disponíveis [aqui.](docs/trabalho-t1-lab-dataquality.md)
+* Detalhes disponíveis [aqui.](docs/trabalho-t1-dataquality.md)
 
 #### T2: Relatório Proposta de Implementação de Governança de Dados
 * Peso na nota final: **70%**, 
