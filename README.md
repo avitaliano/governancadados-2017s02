@@ -21,7 +21,7 @@ Serão 7 encontros programados com a seguinte agenda:
 ### Critérios de Aprovação
 Conforme o regimento do Centro Universitário IESB, para aprovação em cada disciplina o discente precisa cumprir **75% de frequência** e ter a nota mínima exigida para aprovação de **5,0(cinco)**, em uma escala de 0 (zero) a 10 (dez).
 
-A nota final será composta por 2 trabalhos (T1 e T2), conforme abaixo:
+A nota final será composta por 2 trabalhos (T1 e T2).
 
 #### T1: Laboratório de Qualidade de Dados
 * Peso na nota final: **30%**
@@ -40,7 +40,6 @@ Portanto: NF = (3 * NT1 + 7 * NT2) / 10, onde:
 * NT2: Nota do trabalho T2
 
 ### Bibliografia
-A disciplina será baseada em diversos livros, artigos e apresentações.
 * International, DAMA. **DMBOK: Data Management Body of Knowledge**. 2nd Edition. Technics Publications.
 * International, DAMA. **DMBOK: Data Management Body of Knowledge**. 1st Edition. Technics Publications. ISBN:9781935504009.
 * LOSHIN, DAVID. **Master Data Management**. OMG Press, 1a edição. ISBN:9780123742254.
