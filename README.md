@@ -8,6 +8,9 @@ Nas corporações de hoje, vemos um crescimento exponencial da disponibilizaçã
 
 O objetivo deste curso é apresentar os principais arcabouços de governança de dados, suas disciplinas, e estratégias de implementação para diferentes níveis de maturidade organizacional, além de apresentar algumas técnicas de diagnóstico, tratamento e monitoramento da qualidade de dados.
 
+___
+
+
 ### Estrutura da disciplina
 Serão 7 encontros programados com a seguinte agenda:
 1. (14/ago) Governança de Dados: Para quê? Como? Por quê eu?
@@ -17,6 +20,8 @@ Serão 7 encontros programados com a seguinte agenda:
 5. (11/set) *B.I.* moderno e *Analytics*
 6. (18/set) *Big Data* e Governança de Dados: como conviver em harmonia
 7. (25/set) Apresentação dos trabalhos finais
+
+___
 
 ### Critérios de Aprovação
 Conforme o regimento do Centro Universitário IESB, para aprovação em cada disciplina o discente precisa cumprir **75% de frequência** e ter a nota mínima exigida para aprovação de **5,0(cinco)**, em uma escala de 0 (zero) a 10 (dez).
@@ -38,6 +43,8 @@ Portanto: NF = (3 * NT1 + 7 * NT2) / 10, onde:
 * NF: Nota Final
 * NT1: Nota do trablalho T1
 * NT2: Nota do trabalho T2
+
+___
 
 ### Bibliografia
 * International, DAMA. **DMBOK: Data Management Body of Knowledge**. 2nd Edition. Technics Publications.
