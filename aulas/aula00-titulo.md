@@ -4,7 +4,9 @@ Arnaldo Vitaliano, MSc.
 
 IESB, 2017
 
-# Apresentações
+# Apresentando...
+
+---
 
 ## Prazer em conhecê-los
 
