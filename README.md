@@ -41,7 +41,7 @@ A nota final será composta por 2 trabalhos (T1 e T2).
 
 Portanto: NF = (3 * NT1 + 7 * NT2) / 10, onde:
 * NF: Nota Final
-* NT1: Nota do trablalho T1
+* NT1: Nota do trabalho T1
 * NT2: Nota do trabalho T2
 
 ___
