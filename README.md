@@ -53,3 +53,8 @@ ___
 * DUBOV, BERSON. **Master Data Management and Data Governance**. McGraw-Hill. ISBN:9780071744584.
 * MAYDANCHIK, ARKADY. **Data Quality Assessment**. Technics Publications. ISBN:9780977140022.
 
+### Sites e Material de Apoio
+* [Data Governance Institute](http://www.datagovernance.com/)
+* [The DGI Data Governance Framework](http://www.datagovernance.com/wp-content/uploads/2014/11/DGI-Data-Governance-Framework-Image.pdf)
+* [Data Governance Maturity Model, by Office of Management and Enterprise Services](https://www.ok.gov/cio/documents/DataGovernanceMaturityModel_IS.pdf)
+
