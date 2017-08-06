@@ -7,13 +7,12 @@ Este documento tem como objetivo indicar os passos para instalação dos softwar
 * Rstudio
 
 ## Git
-1. Baixar o executável Git na página [https://git-scm.com/](https://git-scm.com/);
-2. Instalar o pacote.
+1. Baixar o executável Git na página [https://git-scm.com/](https://git-scm.com/) e instalar o **git**.
 
 ## R
 1. Baixar o executável R na página do [R-Project.org](https://cloud.r-project.org/bin/windows/);
-2. Versão atual: []3.4.1](https://cloud.r-project.org/bin/windows/base/);
-3. [Instruções](https://cloud.r-project.org/bin/windows/base/README.R-3.4.1) para instalação.
+2. Versão atual: [3.4.1](https://cloud.r-project.org/bin/windows/base/);
+3. Instruções para instalação [aqui](https://cloud.r-project.org/bin/windows/base/README.R-3.4.1).
 
 ## RStudio
 1. Acessar o site [www.rstudio.com](www.rstudio.com) e baixar o executável;
