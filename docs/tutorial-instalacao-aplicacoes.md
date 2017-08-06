@@ -15,7 +15,7 @@ Este documento tem como objetivo indicar os passos para instalação dos softwar
 3. Instruções para instalação [aqui](https://cloud.r-project.org/bin/windows/base/README.R-3.4.1).
 
 ## RStudio
-1. Acessar o site [www.rstudio.com](www.rstudio.com) e baixar o executável;
+1. Acessar o site [www.rstudio.com](http://www.rstudio.com) e baixar o executável;
 2. [Link atual](https://www.rstudio.com/products/rstudio/download/).
 
 
