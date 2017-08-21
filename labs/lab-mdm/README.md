@@ -17,5 +17,13 @@ Estruturar um barramento de Dados Mestres para dados de municípios. Construindo
 * Código BCB; 
 * Código RFB.
 
-## Atividades
-1. Utilizar as fontes de dados disponíveis n
+## Atividades (em grupo)
+1. Utilizar as fontes de dados disponíveis nesta pasta como origens dos dados;
+* Vocês podem utilizar fontes externas para enriquecer a integração;
+2. Gerar o registro dourado de 1 município para todos as UFs;
+* Utilizar de preferência municípios com problemas de qualidade;
+3. Gerar uma plainlha excel com as seguintes informações:
+* Metadados do registro dourado;
+* Linhagem dos dados para cada coluna (de qual fonte/coluna);
+* Registro dourado dos municípios escolhidos;
+4. Apresentar os resultados obtidos (5 minutos).
