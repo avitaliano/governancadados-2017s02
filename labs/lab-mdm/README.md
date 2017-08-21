@@ -20,7 +20,7 @@ Estruturar um barramento de Dados Mestres para dados de municípios. Construindo
 ## Atividades (em grupo)
 1. Utilizar as fontes de dados disponíveis nesta pasta como origens dos dados;
 * Vocês podem utilizar fontes externas para enriquecer a integração;
-2. Gerar o registro dourado de 1 município para todos as UFs;
+2. Gerar o registro dourado de 1 município de cada UF;
 * Utilizar de preferência municípios com problemas de qualidade;
 3. Gerar uma plainlha excel com as seguintes informações:
 * Metadados do registro dourado;
