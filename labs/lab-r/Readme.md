@@ -18,4 +18,12 @@ Para ganharmos tempo, cada alumo deverá acessar material de apoio introdutório
 * [R para Iniciantes](http://ecovirtual.ib.usp.br/doku.php?id=ecovirt:roteiro:soft:rprincip)
 * [Try R - Code School](http://tryr.codeschool.com/)
 
+## Tutorial
+
+### Criar uma conta no GITHUB
+
+1. Acessar [www.github.com](www.github.com) e criar uma conta.
+
+
+
 
